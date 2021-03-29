@@ -1,35 +1,13 @@
 # Carsharing application using react-native and redux.
 ## About Taxi App
 
-
-![](docs/load_page.png "Latest work of Taxi App")
-![](docs/home_page.png "Latest work of Taxi App")
-![](docs/home_page_fare.png "Latest work of Taxi App")
-![](docs/find_driver_page.png "Latest work of Taxi App")
-
 ## Libraries Stack
-### Production
-Beside  ```react``` and ```react-native``` libraries as default, below are additional ones & their purposes
-+ [Redux](https://redux.js.org/): Typical state container (storages) for your react application.
-  + [Redux Thunk](https://github.com/gaearon/redux-thunk) Async execution for redux (as middleware). 
-    + [Redux Saga](https://github.com/redux-saga/redux-saga) maybe the better alternatives to avoid callback chains.
-  + [Redux Binding](https://github.com/reactjs/react-redux) to provide global states, actions (dispatch) to react component state. 
-+ [Native Base Component](https://nativebase.io/) Provide cross platform UI components.
-+ [react-native-router-flux](https://github.com/aksonov/react-native-router-flux) Provide the navigation platform between screen & history.
-  + [reactnavigation](https://reactnavigation.org/) Maybe the other alternative good candidates from react native community.
-+ [SVG Icons](https://github.com/oblador/react-native-vector-icons) Beside icons from ```native-base```, ```react-native-vector-icons``` provide much more options.
-+ [Map](https://github.com/airbnb/react-native-maps) Provide map component for react native, both Android + iOS platform.
-+ [Google Places API](https://github.com/tolu360/react-native-google-places) library to use google place API in react-native.
-+ [Spinkit](https://github.com/maxs15/react-native-spinkit) For the cool spin components.
-+ [Redux state update](https://github.com/kolodny/immutability-helper) Helper to provide mutability of states (predictable)
 
 ### Development
 + [redux-logger](https://github.com/evgenyrodionov/redux-logger) Redux middleware to log all state changes.
 + [flow-bin](https://github.com/facebook/flow) Static typechecker for JavaScript
 + [Story Book](https://storybook.js.org/) Component style preview.
 
-## References
-Steps guideline from [eman1000/TaxiApp](https://github.com/eman1000/TaxiApp)
 
 ## What's differences from original guideline?
 ### General
