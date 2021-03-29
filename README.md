@@ -1,8 +1,6 @@
 # Carsharing application using react-native and redux.
 ## About Taxi App
-Latest work as of now (Part 10), video is available at: [Youtube](https://youtu.be/8lS8dUDIQCc)
 
-Test binary can be downloaded from [TaxiApp android](releases/taxi-app.apk)
 
 ![](docs/load_page.png "Latest work of Taxi App")
 ![](docs/home_page.png "Latest work of Taxi App")
